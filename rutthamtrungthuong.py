@@ -1,6 +1,7 @@
 """
 Chuong trinh rut tham trung thuong thong qua so dien thoai
 
+Credit: Long Nguyen 
 """
 
 import random
