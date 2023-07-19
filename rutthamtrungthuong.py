@@ -1,5 +1,5 @@
 """
-Chuong trinh rut tham trung thuong
+Chuong trinh rut tham trung thuong thong qua so dien thoai
 
 """
 
